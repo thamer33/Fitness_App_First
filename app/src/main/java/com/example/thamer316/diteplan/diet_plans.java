@@ -35,9 +35,9 @@ public class diet_plans extends AppCompatActivity {
     public void Calories (View view) {
 
         boolean checked = ((RadioButton) view).isChecked();
-        switch (view.getId())
-            case R.id.radioButton;
-            
+        switch (view.getId()) {
+            case R.id.radioButton:
+        }
     }
 
     }
