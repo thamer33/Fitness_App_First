@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jar="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-104f0b01e758aa3d0107864b5bc77f8c4bd601bc.jar" />
-    </item>
-    <item
-        jar="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/classes-a82c7c4449e8c8c08e02e91a613b8f183c4ba914.jar" />
-    </item>
-    <item
-        jar="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/classes-289f0aa4b24bc8880b9c107ab9bab26df819518b.jar" />
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-a8c77cd776cb39ae73b765fee21da5f3fed50474.jar" />
     </item>
     <item
         jar="/Users/thamer316/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-732d183eaf46eefa06246491d7cf7b929ce3fe98.jar" />
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-732d183eaf46eefa06246491d7cf7b929ce3fe98.jar" />
     </item>
     <item
-        jar="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/classes-93a9706c64941cff519d7d4bfc28ba33fd83385d.jar" />
-    </item>
-    <item
-        jar="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jar="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/Users/thamer316/AndroidStudioProjects/DitePlan/app/build/intermediates/pre-dexed/debug/classes-82fd0932b9e845458e125cbba0836bdf6470a65a.jar" />
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/classes-b85705bc4a24a637676d8ab28c91b905b9ee9681.jar" />
+    </item>
+    <item
+        jar="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/classes-113a28f02473781d0d33e7c1ef842b3410347295.jar" />
+    </item>
+    <item
+        jar="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/classes-f22178ec2e8056052efe5312e1bc749a74ae8e6f.jar" />
+    </item>
+    <item
+        jar="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/thamer316/Desktop/Diet_Plan1/Fitness_App_First/app/build/intermediates/pre-dexed/debug/classes-739d3b988d7fea7916c2ce1899d36b9a31a9881f.jar" />
     </item>
 
 </items>
